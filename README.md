@@ -6,3 +6,4 @@ some description!
 ls | grep testkey
 -a----        17/07/2023     02:15           3389 testkey
 -a----        17/07/2023     02:15            747 testkey.pub
+lien autorisation: https://docs.github.com/fr/authentication/troubleshooting-ssh/error-permission-denied-publickey
