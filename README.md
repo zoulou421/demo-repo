@@ -1,6 +1,10 @@
 # Demo
 
 some description!
+
+## local Developpement
+ 1.Open your index in your browser
+
  ssh-keygen -t rsa -b 4096 -C "bonevybeby@gmail.com" 
  
 ls | grep testkey
